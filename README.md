@@ -1,5 +1,9 @@
 # EA Node.js + TypeScript + Mongoose
 
+# Referencies
+https://www.w3schools.com/mongodb/mongodb_aggregations_intro.php
+https://mongoosejs.com/docs/populate.html
+
 ## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes programas en tu sistema:
